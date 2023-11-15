@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Remera celeste",
+      "description": "Ropa",
+      "price": 12900,
+      "thumbnail": "https://www.example.com",
+      "code": "Code1",
+      "stock": 200
+    },
+    {
+      "id": 2,
+      "title": "Cinturon marron",
+      "description": "Accesorios",
+      "price": 5620,
+      "thumbnail": "https://www.example.com",
+      "code": "Code2",
+      "stock": 100
+    },
+    {
+      "id": 3,
+      "title": "Buzo negro",
+      "description": "Ropa",
+      "price": 11900,
+      "thumbnail": "https://www.example.com",
+      "code": "Code3",
+      "stock": 200
+    }
+  ]
